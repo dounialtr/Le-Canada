@@ -6,7 +6,6 @@
  &nbsp;
  
  ## Les langues parlées 
-------------------------
 
 Les majoritaires sont:  
  
@@ -19,9 +18,10 @@ Les majoritaires sont:
  ![La multiculturalité](https://i.pinimg.com/564x/84/27/71/842771c5894b1bfd08f541f247407d0f.jpg)
  
  &nbsp;
+ ---------------------
  
  ## La place de la religion 
- ---------------------
+ 
  Comme dans chaque pays du monde, le peuple est souvent guidé par la religion. Voici quelques données concernant le nombre de pratiquants du christianisme. 
  
  Le catholicisme | Le protestantisme | L'église orthodoxe 
