@@ -1,7 +1,8 @@
 # Le Canada au fil du temps 
 
 
-&nbsp; -----------------------
+&nbsp; 
+-----------------------
 
 
 # Localisation géographique
