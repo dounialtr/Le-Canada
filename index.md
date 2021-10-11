@@ -17,3 +17,9 @@ Les majoritaires
               | dont le français canadien 
               | le français québécois et
               | le français acadien
+
+
+L'anglais.    | Le français
+------------- | -------------
+      58%        | 22%
+Content Cell  | Content Cell
