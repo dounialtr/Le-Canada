@@ -21,10 +21,10 @@ Les majoritaires
  ## La place des arts 
  ---------------------
  
- Le catholicisme | Le français | Le bouddhisme 
- -------------   | ----------  | ------------
- 58%.            |    22%      | 35T
+ Le catholicisme | Le protestantisme | L'église orthodoxe 
+ --------------  |   -------------   | ------------
+ 12 728 900      | 7 910 000         | 550 690
  
 
-
+bouddhisme 
 
