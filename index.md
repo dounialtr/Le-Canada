@@ -18,7 +18,7 @@ Les majoritaires sont:
  ![La multiculturalité](https://i.pinimg.com/564x/84/27/71/842771c5894b1bfd08f541f247407d0f.jpg)
  
  &nbsp;
- #-----------------------
+---------------------------
  
  ## La place de la religion 
  
