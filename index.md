@@ -8,13 +8,15 @@
  ## Les langues parlées 
 ------------------------
 
-Les majoritaires 
+Les majoritaires sont:  
  
  L'anglais | Le français
  --------- | ----------
- 58%.      |    22%
+ 58%       |    22%
  
  Le Canada tient la place d'un pays multilingue dans la mesure où l'espagnol, l'allemand, le chinois, l'arabe, le hollandais et bien d'autres langues sont très employées. 
+ 
+ ![Alt text](http:https://www.pinterest.fr/pin/467670742526396408/)
  
  &nbsp;
  
@@ -28,4 +30,6 @@ Les majoritaires
  
 
 Bien que cette religion soit très répandu dans notre pays aux fleurs d'érables, il ne faut pas oublié la pratique de l'islam (1 053 945), du judaïsme (329 500) et du bouddhisme (366 830) pour n'énumérer que les plus connues...
+
+
 
