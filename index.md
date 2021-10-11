@@ -16,7 +16,7 @@ Les majoritaires sont:
  
  Le Canada tient la place d'un pays multilingue dans la mesure où l'espagnol, l'allemand, le chinois, l'arabe, le hollandais et bien d'autres langues sont très employées. 
  
- ![Alt text](https://www.pinterest.fr/pin/467670742526396408/)
+ ![Alt text](http://www.pinterest.fr/pin/467670742526396408/)
  
  &nbsp;
  
