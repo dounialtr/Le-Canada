@@ -10,6 +10,13 @@
 
 Les majoritaires 
  
+ L'anglais | Le français
+ --------- | ----------
+ 58%.      |    22%
+           | dont le fr
+ 
+ 
+ 
  
    L'anglais  | Le français 
 ------------- | -------------
@@ -17,12 +24,6 @@ Les majoritaires
               | dont le français canadien 
               | le français québécois et
               | le français acadien
-
-
-L'anglais.    | Le français
-------------- | -------------
-      58%        | 22%
-Content Cell  | Content Cell
 
 
 First Header  | Second Header
