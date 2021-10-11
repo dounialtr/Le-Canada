@@ -21,7 +21,9 @@ Les majoritaires
  ## La place des arts 
  ---------------------
  
- 
+ Le catholicisme | Le français | Le bouddhisme 
+ -------------   | ----------  | ------------
+ 58%.            |    22%      | 35T
  
 
 
