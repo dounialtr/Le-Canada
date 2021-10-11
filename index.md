@@ -18,13 +18,14 @@ Les majoritaires
  
  &nbsp;
  
- ## La place des arts 
+ ## La place de la religion 
  ---------------------
+ Comme dans chaque pays du monde, le peuple est souvent guidé par la religion. Voici quelques données concernant le nombre de pratiquants du christianisme. 
  
  Le catholicisme | Le protestantisme | L'église orthodoxe 
  --------------  |   -------------   | ------------
  12 728 900      | 7 910 000         | 550 690
  
 
-bouddhisme 
+Bien que cette religion soit très répandu dans notre pays aux fleurs d'érables, il ne faut pas oublié la pratique de l'islam (1 053 945), du judaïsme (329 500) et du bouddhisme (366 830) pour n'énumérer que les plus connues...
 
