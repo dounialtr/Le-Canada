@@ -14,4 +14,6 @@ Les majoritaires
    L'anglais  | Le français 
 ------------- | -------------
      58%      |     22%
- | 
+              | dont le français canadien 
+              | le français québécois et
+              | le français acadien
