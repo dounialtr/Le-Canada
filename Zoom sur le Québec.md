@@ -22,4 +22,17 @@ La faune terrestre est principalement composé de cerfs, de cariboux, d'ours noi
 &nbsp;
 
 ## Le tourisme
+Le tourisme est un véritable pilier de l'économie québécoise. Annuellement, les touristes dépensent plus de 6,7 milliards de dollars dans les différentes sphères de l’industrie touristique québécoise. Le développement des 22 régions touristiques est assuré par un réseau autonome d'associations touristiques régionales. Une panoplie de sites et plaisirs saisonniers font la satisfaction des touristes, sur l'eau, dans les montagnes ou dans les airs. Enfin, le Québec accueille de nombreux événements d’envergure internationale, dont des compétitions sportives (Grand Prix automobile du Canada, Coupe Rogers) et des festivals (Festival international de jazz de Montréal, Festival d’été international de Québec) ainsi que le plus important carnaval d'hiver au monde, le Carnaval de Québec.
+
+&nbsp;
+
+## La gastronomie 
+Une cuisine familiale, basée sur la tradition française, s’est développée au fil des siècles, intégrant poisson, gibier, légumes et fruits frais. Nous trouvons des plats tels que: 
+* La poutine 
+* Le cipaille
+* La guédille 
+* Le magret de canard 
+* La soupe aux pois
+Sans oublié les incontournables cabanes à sucre, la production de sirop d'érables et le vin/cidre de glace. 
+
 
