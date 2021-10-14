@@ -1,4 +1,4 @@
-#Petit zoom sur le Québec 
+# Petit zoom sur le Québec 
 
 &nbsp;
 
@@ -14,7 +14,7 @@ Il aussi important de noter que les femmes avaient le même droit de vote que le
 
 &nbsp;
 
-##La faune et la flore 
+## La faune et la flore 
 -----------------------
 
 Le Québec connaît également les 4 saisons de l'année avec des températures variant entre -40° pendant l'hiver québécois et 35° en été. 
@@ -22,5 +22,5 @@ La faune terrestre est principalement composé de cerfs, de cariboux, d'ours noi
 
 &nbsp;
 
-##Le tourisme
+## Le tourisme
 -----------------------
