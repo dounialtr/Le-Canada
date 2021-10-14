@@ -4,6 +4,9 @@
 
 Le Québec est une province dont la capitale est la ville de Québec et sa métropole est Montréal. Il est situé entre l'Ontario et les provinces de l'Atlantique. La langue officielle est le français. C'est la deuxième province la plus péuplée après l'Ontario en comptant 8 400 000 habitants. 
 
+
+![ville de Montréal](https://www.jechoisismontreal.com/app/uploads/2019/04/mi-rivesud-64_524x348_acf_cropped-524x317.jpg)
+
 &nbsp;
 
 ## L'histoire du Québec 
@@ -34,5 +37,7 @@ Une cuisine familiale, basée sur la tradition française, s’est développée 
 * Le magret de canard 
 * La soupe aux pois
 Sans oublié les incontournables cabanes à sucre, la production de sirop d'érables et le vin/cidre de glace. 
+
+![ville de Montréal](https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Ffac.2F2018.2F07.2F30.2Faa1d040e-4888-4394-9de1-7c90a27a46a1.2Ejpeg/850x478/quality/90/crop-from/center/poutine-canadienne.jpeg)
 
 
