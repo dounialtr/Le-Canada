@@ -14,14 +14,14 @@
 -----------------------
 
 ## L'arrivée des premiers occupants
-Les premières migrations au sein de ce territoire datent d'environ 15 OOO ans lors de la dernière glaciation. Celle-ci a abaissé le niveau des océans et crée une sorte de pont terrestre reliant l'Eurasie à l'Amérique. Les hommes s'y sont donc installés. 
+<p align=justify> Les premières migrations au sein de ce territoire datent d'environ 15 OOO ans lors de la dernière glaciation. Celle-ci a abaissé le niveau des océans et crée une sorte de pont terrestre reliant l'Eurasie à l'Amérique. Les hommes s'y sont donc installés. </p> 
 
 &nbsp;
-Les premières explorations européennes débutent à la fin du XVIème siècle, notamment avec les diverses expéditions du français Jacques Cartier dans le Golfe de Saint-Laurent. Au cours des divers voyages, voici l'un des grands commentaires qui a été fait: 
+<p align=justify> Les premières explorations européennes débutent à la fin du XVIème siècle, notamment avec les diverses expéditions du français Jacques Cartier dans le Golfe de Saint-Laurent. Au cours des divers voyages, voici l'un des grands commentaires qui a été fait: </p> 
 
 > "Ces gens-là se peuvent appeler sauvages, car ce sont les plus pauvres gens qui puissent être au monde; car tous ensemble ils n'avaient pas la valeur de cinq sous, leurs barques et leurs filets de pêche exceptés." Jacques Cartier, Voyages au Canada, Premier voyage (1534) 
 
-Plusieurs colonies britanniques, françaises, espagnoles et russes cherchent à s'installer sur le territoire. Suite à de divers conflits tels que la guerre de Succession d'Espagne (1701-1714), la guerre de la Conquête (1754-1760) et la guerre d'indépendance des États-Unis (1775-1783), la Grande-Bretagne gagne et perd des territoires au XVIIIème siècle, ce qui correspond au territoire canadien d'aujourd'hui. 
+<p align=justify> Plusieurs colonies britanniques, françaises, espagnoles et russes cherchent à s'installer sur le territoire. Suite à de divers conflits tels que la guerre de Succession d'Espagne (1701-1714), la guerre de la Conquête (1754-1760) et la guerre d'indépendance des États-Unis (1775-1783), la Grande-Bretagne gagne et perd des territoires au XVIIIème siècle, ce qui correspond au territoire canadien d'aujourd'hui. </p> 
 
 ![Affiche de propagande](https://s.france24.com/media/display/7ceb9bc0-136a-11e9-b625-005056bff430/w:980/p:16x9/enrolement_volontaire_main2.webp)
 
@@ -29,8 +29,7 @@ Plusieurs colonies britanniques, françaises, espagnoles et russes cherchent à 
 
 ## Le Canada face aux turbulences du XXème siècle 
 
-L'histoire contemporaine du territoire canadien est marquée par une forte expansion territoriale, la ruée vers l'or et la participation à la Première Guerre mondiale. Le pays fut impacté par la Grande Dépression en 1929 mais son économie repart grâce à sa participation à la Seconde Guerre mondiale. Il en ressort comme puissance moyenne et fut l'un des vainqueurs en tant que membre des pays alliés. 
-</p> 
+<p align=justify> L'histoire contemporaine du territoire canadien est marquée par une forte expansion territoriale, la ruée vers l'or et la participation à la Première Guerre mondiale. Le pays fut impacté par la Grande Dépression en 1929 mais son économie repart grâce à sa participation à la Seconde Guerre mondiale. Il en ressort comme puissance moyenne et fut l'un des vainqueurs en tant que membre des pays alliés. </p> 
 
 * [Venez découvrir le Canada sous ses aspects culturels!](./Culture.md)
 * [Petit zoom sur le Québec](./Quebec.md)
