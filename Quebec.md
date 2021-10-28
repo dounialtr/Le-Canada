@@ -30,7 +30,7 @@ La faune terrestre est principalement composé de cerfs, de cariboux, d'ours noi
 &nbsp;
 
 ## La gastronomie 
-<p align=justify> Une cuisine familiale, basée sur la tradition française, s’est développée au fil des siècles, intégrant poisson, gibier, légumes et fruits frais. Nous trouvons des plats tels que: </p> 
+Une cuisine familiale, basée sur la tradition française, s’est développée au fil des siècles, intégrant poisson, gibier, légumes et fruits frais. Nous trouvons des plats tels que: 
 * La poutine 
 * Le cipaille
 * La guédille 
