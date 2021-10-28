@@ -31,7 +31,8 @@ Plusieurs colonies britanniques, françaises, espagnoles et russes cherchent à 
 
 ## Le Canada face aux turbulences du XXème siècle 
 
-L'histoire contemporaine du territoire canadien est marquée par une forte expansion territoriale, la ruée vers l'or et la participation à la Première Guerre mondiale. Le pays fut impacté par la Grande Dépression en 1929 mais son économie repart grâce à sa participation à la Seconde Guerre mondiale. Il en ressort comme puissance moyenne et fut l'un des vainqueurs en tant que membre des pays alliés.  
+L'histoire contemporaine du territoire canadien est marquée par une forte expansion territoriale, la ruée vers l'or et la participation à la Première Guerre mondiale. Le pays fut impacté par la Grande Dépression en 1929 mais son économie repart grâce à sa participation à la Seconde Guerre mondiale. Il en ressort comme puissance moyenne et fut l'un des vainqueurs en tant que membre des pays alliés. 
+</p> 
 
 * [Venez découvrir le Canada sous ses aspects culturels!](./Culture.md)
 * [Petit zoom sur le Québec](./Quebec.md)
