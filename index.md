@@ -7,7 +7,7 @@
 
 &nbsp;
 
-<p align=center> Le Canada est un pays situé en Amérique du Nord. À l'ouest, nous trouvons l'océan Atlantique à l'Est, l'océan Arctique au Nord et l'océan Pacifique à l'Ouest. Les pays frontaliers sont l'Alaska au Nord et les États-Unis au Sud. Le territoire canadien s'étend sur 10 millions de kilomètres carrés, ce qui fait de lui le deuxième pays du monde le plus étendu après la Russie. La population totale est de 38 millions d'habitants. Le Canada contient plus de **31 700 lacs**, ce qui en fait l'un des pays possédant les plus grandes réserves d'eau douce du monde. Les langues officielles sont l'anglais et le français. La capitale fédérale est ~~Montréal (beaucoup font l'erreur...)~~ **Ottawa**. La monnaie utilisée est le dollar canadien.</p>
+<p align=justify> Le Canada est un pays situé en Amérique du Nord. À l'ouest, nous trouvons l'océan Atlantique à l'Est, l'océan Arctique au Nord et l'océan Pacifique à l'Ouest. Les pays frontaliers sont l'Alaska au Nord et les États-Unis au Sud. Le territoire canadien s'étend sur 10 millions de kilomètres carrés, ce qui fait de lui le deuxième pays du monde le plus étendu après la Russie. La population totale est de 38 millions d'habitants. Le Canada contient plus de **31 700 lacs**, ce qui en fait l'un des pays possédant les plus grandes réserves d'eau douce du monde. Les langues officielles sont l'anglais et le français. La capitale fédérale est ~~Montréal (beaucoup font l'erreur...)~~ **Ottawa**. La monnaie utilisée est le dollar canadien.</p>
 
 &nbsp;
 
