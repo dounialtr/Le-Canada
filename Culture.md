@@ -34,4 +34,5 @@ Les majoritaires sont:
 
 
 * [Petit zoom sur le Québec](./Quebec.md)
-* [Le Canada au fil du temps] (./index.md) 
+* [Le Canada au fil du temps] (./index.md)
+
