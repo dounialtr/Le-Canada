@@ -2,7 +2,7 @@
 -----------------------
 &nbsp;
 
-<p align=justify> Le Québec est une province dont la capitale est la ville de Québec et sa métropole est Montréal. Il est situé entre l'Ontario et les provinces de l'Atlantique. La langue officielle est le français. C'est la deuxième province la plus péuplée après l'Ontario en comptant 8 400 000 habitants. 
+<p align=justify> Le Québec est une province dont la capitale est la ville de Québec et sa métropole est Montréal. Il est situé entre l'Ontario et les provinces de l'Atlantique. La langue officielle est le français. C'est la deuxième province la plus péuplée après l'Ontario en comptant 8 400 000 habitants. </p>
 
 &nbsp;
   
