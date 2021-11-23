@@ -7,7 +7,7 @@
  
  ## Les langues parlées 
 
-Les majoritaires sont:  
+<p Les majoritaires sont: /p>
  
  L'anglais | Le français
  --------- | ----------
