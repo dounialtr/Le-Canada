@@ -8,8 +8,8 @@
  
  ## Les langues parlées 
 
-<p Les majoritaires sont: /p>
- 
+<p> Les majoritaires sont: </p>
+
  L'anglais | Le français
  --------- | ----------
  58%       |    22%
