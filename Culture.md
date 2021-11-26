@@ -8,8 +8,7 @@
  
  ## Langues parlées
  
-  &nbsp;
-
+ 
 <p> Les majoritaires sont: </p>
 
  L'anglais | Le français
@@ -25,7 +24,6 @@
 
 ## La place de la religion
  
-  &nbsp;
  
  <p align=justify> Comme dans chaque pays du monde, le peuple est souvent guidé par la religion. Voici quelques données concernant le nombre de pratiquants du christianisme. </p>
  
