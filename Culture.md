@@ -6,7 +6,7 @@
  
  &nbsp;
  
- ## Langues parlées
+## Langues parlées
  
  
 <p> Les majoritaires sont: </p>
