@@ -13,7 +13,6 @@
 ## L'arrivée des premiers occupants
 <p align=justify> Les premières migrations au sein de ce territoire datent d'environ 15 OOO ans lors de la dernière glaciation. Celle-ci a abaissé le niveau des océans et crée une sorte de pont terrestre reliant l'Eurasie à l'Amérique. Les hommes s'y sont donc installés. </p> 
 
-&nbsp;
 <p align=justify> Les premières explorations européennes débutent à la fin du XVIème siècle, notamment avec les diverses expéditions du français Jacques Cartier dans le Golfe de Saint-Laurent. Au cours des divers voyages, voici l'un des grands commentaires qui a été fait: </p> 
 
 > "Ces gens-là se peuvent appeler sauvages, car ce sont les plus pauvres gens qui puissent être au monde; car tous ensemble ils n'avaient pas la valeur de cinq sous, leurs barques et leurs filets de pêche exceptés." Jacques Cartier, Voyages au Canada, Premier voyage (1534) 
